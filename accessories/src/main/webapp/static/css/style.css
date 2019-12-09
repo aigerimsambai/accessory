@@ -1,0 +1,95 @@
+body {
+	width:100%;
+}
+.cont{
+	padding-left:auto;
+    padding-right:auto;
+    position:relative;
+    width:100%;
+}
+header{
+	height:10px;
+	width:100%;
+	position:relative;
+}
+footer{	
+margin-top:20px;
+    height:auto;	
+    background:red ;
+	color:white;
+	font-size:14px;
+	font-family:Arial;
+	border-radius:5px;
+	}
+#sm{
+	
+	margin-top:5px;
+	
+}
+#sm1{
+	
+margin-top:8px;
+	
+}
+
+#logo{
+	margin-top:0px;
+	bottom:0px;
+}
+/*
+essential styles:
+these make the slideshow work
+*/
+#slides{
+	position: absolute;
+	padding: 0px;
+	margin-top: 10px;
+	list-style-type: none;
+}
+
+.slide{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	z-index: 1;
+
+	-webkit-transition: opacity 1s;
+	-moz-transition: opacity 1s;
+	-o-transition: opacity 1s;
+	transition: opacity 1s;
+}
+
+.showing{
+	opacity: 1;
+	z-index: 2;
+}
+
+
+
+/*
+non-essential styles:
+just for appearance; change whatever you want
+*/
+
+.slide{
+	font-size: 40px;
+	padding: 40px;
+	box-sizing: border-box;
+	
+	color: #fff;
+}
+#click{
+	margin: 500px auto 15px;
+	
+}
+
+
+#fixbut{
+	display:none;
+	position:fixed;
+	right:48px;
+	bottom:80px;
+}

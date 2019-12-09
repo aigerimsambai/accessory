@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc720a71-94cf-4bf1-aaaa-b3c809a737f9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="petstore@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UeriHrMtdVOlTlydMIOILyxgaU" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="12 (2)" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/accessory-info-master/src/main/java/kz/iitu/jd3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/book-catalog" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\accessory" />
+      <recent name="C:\Users\HP\Desktop\accessory\book-catalog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NotifyServiceApplication">
+    <configuration name="AccessoryCatalogApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="book-catalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kz.iitu.jd3.accessorycatalog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.accessorycatalog.AccessoryCatalogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessoryCatalogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="book-catalog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.accessory.AccessoryCatalogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessoryInfoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="accessory-info" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kz.iitu.jd3.accessoryinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.accessoryinfo.AccessoryInfoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessoryRatingsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="accessory-ratings" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.accessoryratings.AccessoryRatingsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessoryRequestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="accessory-request" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.accessoryrequest.AccessoryRequestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eureka.auth.AuthServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookCatalogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="book-catalog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.bookcatalog.BookCatalogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookInfoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="accessory-info" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.bookinfo.AccessoryInfoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookRatingsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="book-ratings" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.bookratings.BookRatingsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookRequestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="book-request" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.bookrequest.BookRequestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotifyServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="notify-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.notifyservice.NotifyServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceDiscoveryApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.accessorycatalog.servicediscovery.ServiceDiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.iitu.jd3.bookcatalog.servicediscovery.ServiceDiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringEurekaCommonApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eureka.common.SpringEurekaCommonApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eureka.zuul.ZuulServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service-discovery-master/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="service-discovery-master/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AccessoryInfoApplication" />
+        <item itemvalue="Spring Boot.AccessoryCatalogApplication (1)" />
+        <item itemvalue="Docker.service-discovery-master/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.23675497" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@a469d38c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@a469d38c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@c89778bf" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc720a71-94cf-4bf1-aaaa-b3c809a737f9" name="Default Changelist" comment="" />
+      <created>1575728028034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575728028034</updated>
+      <workItem from="1575728032428" duration="300000" />
+      <workItem from="1575728445340" duration="42000" />
+      <workItem from="1575728532933" duration="193000" />
+      <workItem from="1575728940158" duration="67000" />
+      <workItem from="1575729034021" duration="212000" />
+      <workItem from="1575729342637" duration="102000" />
+      <workItem from="1575729671894" duration="208000" />
+      <workItem from="1575729942472" duration="1530000" />
+      <workItem from="1575789237194" duration="1425000" />
+      <workItem from="1575809669983" duration="1528000" />
+      <workItem from="1575811240665" duration="10253000" />
+      <workItem from="1575824564254" duration="2246000" />
+      <workItem from="1575827034571" duration="2114000" />
+      <workItem from="1575877057286" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

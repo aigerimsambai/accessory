@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/accessories" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/accessory-catalog-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/accessory-info-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/accessory-ratings-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/accessory-request-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-service-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notify-service-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-discovery-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-server-master" charset="UTF-8" />
+  </component>
+</project>

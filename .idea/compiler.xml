@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="accessory-info" />
+        <module name="common-service" />
+        <module name="notify-service" />
+        <module name="online-shopping" />
+        <module name="service-discovery" />
+        <module name="zuul-server" />
+        <module name="accessory-request" />
+        <module name="accessory-ratings" />
+        <module name="auth-service" />
+        <module name="book-catalog" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book-info" target="1.8" />
+      <module name="book-ratings" target="1.8" />
+      <module name="book-request" target="1.8" />
+      <module name="bookcatalog" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="accessory-info" options="-parameters" />
+      <module name="accessory-ratings" options="-parameters" />
+      <module name="accessory-request" options="-parameters" />
+      <module name="auth-service" options="-parameters" />
+      <module name="book-catalog" options="-parameters" />
+      <module name="book-info" options="-parameters" />
+      <module name="book-ratings" options="-parameters" />
+      <module name="book-request" options="-parameters" />
+      <module name="common-service" options="-parameters" />
+      <module name="notify-service" options="-parameters" />
+      <module name="service-discovery" options="-parameters" />
+      <module name="zuul-server" options="-parameters" />
+    </option>
+  </component>
+</project>
